@@ -71,7 +71,6 @@ dcpp-precipitation-evaluation/
 ├── .gitignore
 └── README.md
 
-```
 # Repository status
 🚧 Work in progress
 This repository is currently being organized and documented. Code and reproducible examples will be added progressively.
