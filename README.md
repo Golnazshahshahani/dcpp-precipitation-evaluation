@@ -70,3 +70,12 @@ dcpp-precipitation-evaluation/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+Repository status
+🚧 Work in progress
+This repository is currently being organized and documented. Code and reproducible examples will be added progressively.
+Only material suitable for public release will be included; unpublished research outputs and restricted datasets will remain excluded.
+Author
+Golnaz Shahshahani
+M.Sc. researcher in Climatology (Climate Change), University of Guilan
+LinkedIn
